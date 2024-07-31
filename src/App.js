@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          배포 테스트 진행
+          다시 한 번 배포 확인 테스트
         </a>
       </header>
     </div>
