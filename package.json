@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://harry-pota.github.io/wedding",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -37,6 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://harry-pota.github.io/wedding"
+  }
 }
